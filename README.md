@@ -19,4 +19,5 @@
 https://github-clone-hs-11.netlify.app/
 
 #  Github-Clone-hs-11-Proje Gifi
+![github-clone](https://github.com/mehmet-adgzl22/github-clone-hs-11/assets/169144147/8088517e-3fc7-4b88-95dc-ee3ffa9b3c49)
 
